@@ -13,7 +13,7 @@ function CardComponents(props) {
                             <div className="flex items-center justify-between">
                                 <div className="widget-label">
                                     <h3 className="text-lg leading-tight text-gray-500">
-                                        {values?.title}
+                                        {values?.titles}
                                     </h3>
                                     <h1 className="text-3xl leading-tight font-semibold text-black">
                                         {values?.leaveCount}
